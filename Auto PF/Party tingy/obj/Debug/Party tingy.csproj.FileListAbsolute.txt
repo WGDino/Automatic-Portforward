@@ -1,0 +1,12 @@
+C:\Users\Chris\source\repos\Party tingy\Party tingy\bin\Debug\Party tingy.exe.config
+C:\Users\Chris\source\repos\Party tingy\Party tingy\bin\Debug\Party tingy.exe
+C:\Users\Chris\source\repos\Party tingy\Party tingy\bin\Debug\Party tingy.pdb
+C:\Users\Chris\source\repos\Party tingy\Party tingy\obj\Debug\Party tingy.csproj.AssemblyReference.cache
+C:\Users\Chris\source\repos\Party tingy\Party tingy\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Chris\source\repos\Party tingy\Party tingy\obj\Debug\Party tingy.csproj.ResolveComReference.cache
+C:\Users\Chris\source\repos\Party tingy\Party tingy\obj\Debug\Party_tingy.Form1.resources
+C:\Users\Chris\source\repos\Party tingy\Party tingy\obj\Debug\Party_tingy.Properties.Resources.resources
+C:\Users\Chris\source\repos\Party tingy\Party tingy\obj\Debug\Party tingy.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\Party tingy\Party tingy\obj\Debug\Party tingy.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Party tingy\Party tingy\obj\Debug\Party tingy.exe
+C:\Users\Chris\source\repos\Party tingy\Party tingy\obj\Debug\Party tingy.pdb

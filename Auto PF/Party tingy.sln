@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Party tingy", "Party tingy\Party tingy.csproj", "{53BC0449-DA54-4844-B732-02F668838A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BC0449-DA54-4844-B732-02F668838A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BC0449-DA54-4844-B732-02F668838A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BC0449-DA54-4844-B732-02F668838A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BC0449-DA54-4844-B732-02F668838A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79401F93-49C9-4ECE-92B3-94E3CA611361}
+	EndGlobalSection
+EndGlobal
